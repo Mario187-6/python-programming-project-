@@ -1,2 +1,3 @@
 # python-programming-project-
-This project is a comprehensive demand forecasting and planning tool built from scratch in Python as part of a programming course. The project simulates real-world supply chain scenarios, helping to predict demand, analyze order patterns, and support decision-making with data-driven logic done by our team.
+
+we create a Python program in this project for analyzing sales and order data Computes key metrics like total revenue, number of orders, and order value statistics, with a focus on supply chain analysis.
